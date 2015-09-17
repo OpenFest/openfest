@@ -18,7 +18,7 @@ Code of conduct
 Code of conduct
 ---------------
 
-Целта на OpenFest е да предостави интересно и приятно преживяване на всичките си
+Цел на OpenFest е да предостави интересно и приятно преживяване на всичките си
 посетители и доброволци, без значение от тяхната раса, пол, възраст, ориентация,
 инвалидност, външен вид, вяра, религия (или липса на такава) или използвана
 технология.
@@ -47,7 +47,7 @@ everyone in who we can ignite the interest for these topics.
 Code of conduct
 ---------------
 
-The goal of OpenFest is to privoce an interesting and nice time for all its
+A goal of OpenFest is to privoce an interesting and nice time for all its
 visitors and volunteers, regardless of their race, sex, age, orientation,
 disability, physical appearance, ethnicity, religion (or lack thereof), or
 technology choices.
