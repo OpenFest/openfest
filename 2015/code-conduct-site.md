@@ -15,7 +15,7 @@ Code of conduct
 Code of conduct
 ---------------
 
-Целта на OpenFest е да предостави интересно и приятно преживяване на всичките си посетители и доброволци, без значение от тяхната раса, пол, възраст, ориентация, инвалидност, външен вид, вяра, религия (или липса на таката) или използвана технология. 
+Целта на OpenFest е да предостави интересно и приятно преживяване на всичките си посетители и доброволци, без значение от тяхната раса, пол, възраст, ориентация, инвалидност, външен вид, вяра, религия (или липса на такава) или използвана технология. 
 
 Не толерираме тормоз, използването на обидни и груби думи, изрази и действия, както и дискриминация под никаква форма. Участниците, които нарушават тези правила ще бъдат помолени да прекратят това си поведение и при необходимост задължени да напуснат конференцията. 
 
@@ -33,7 +33,7 @@ A conference of the free software, open technologies, open art and everything co
 Code of conduct
 ---------------
 
-The goal of OpenFest is to privoce an interesting and nice time for all its visitors and volunteers, regardless of their race, sex, age, orientation, disability,  physical appearance, race, ethnicity, religion (or lack thereof), or technology choices.
+The goal of OpenFest is to privoce an interesting and nice time for all its visitors and volunteers, regardless of their race, sex, age, orientation, disability,  physical appearance, ethnicity, religion (or lack thereof), or technology choices.
 
 We do not tolerate harassment of conference participants in any form. The people who violate these rules will be asked to refrain from such activities or be expelled from the event.
 
