@@ -1,0 +1,27 @@
+VLANs
+
+
+id	range			name
+100	46.233.38.137/28	external
+200	10.200.0.0/24		mgmt
+201 	10.201.0.0/22		wired
+202 	10.202.0.0/22		wireless
+203 	10.203.0.0/24		video
+204	10.204.0.0/24		overflow
+
+
+mgmt vlan
+
+ip	name
+.1	eric
+.2	switch
+
+
+temp sw ports
+
+
+fa0/1-6 AP-та (200, 202 tagged)
+
+fa0/23 external
+fa0/24 eric-eth0-external
+gi0/2 eric-eth1-internal (trunk)
