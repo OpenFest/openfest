@@ -1,0 +1,20 @@
+# You need GraphViz
+# sfdp -Tsvg backbone.dot -o backbone.svg
+
+graph {
+        Core[color="red"];
+        NOC[color="red"];
+        "Team Corridor"[color="red"];
+        "Reception"[color="red"];
+        "Chamber Hall"[color="red"];
+        "Second Balcony Lobby"[color="red"];
+        "Sponsors"[color="red"];
+        "Studio Music"[color="red"];
+	Core -- NOC[label="1000BASE-X"];
+        Core -- "Team Corridor"[label="1000BASE-X"];
+        NOC -- {"Second Balcony Lobby" "Sponsors" "Team Corridor"};
+        Reception -- {"Team Corridor" "Chamber Hall"};
+        Sponsors -- "Chamber Hall";
+        Sponsors -- "Studio Music";
+        "Studio Music" -- "Second Balcony Lobby";
+}
