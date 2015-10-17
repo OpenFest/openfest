@@ -1,0 +1,2 @@
+Виждане на mac адрес колко му е силата на сигнала от някое AP:
+    iwinfo <interface> assoclist | grep <mac address>
