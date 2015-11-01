@@ -3,26 +3,26 @@ VLANs
 
 id	range			name
 50	46.233.38.137/28	external
-100	10.200.0.0/24		mgmt
-101 	10.201.0.0/22		wired
-102 	10.202.0.0/22		wireless
-103 	10.203.0.0/24		video
-104	10.204.0.0/24		overflow
+100	10.100.0.0/24		mgmt
+101 	10.101.0.0/22		wired
+102 	10.102.0.0/22		wireless
+103 	10.103.0.0/24		video
+104	10.104.0.0/24		overflow
 
 
 mgmt vlan
 
 ip	name
 .1	eric
-.2	switch
 .3	eagle
 
 
-temp sw ports
+.11 coresw
+.12 nocsw
+.13 teamsw
+.14 wssw
+.15 receptionsw
+.16 camsw
+.17 f2sw
+.18 mussw
 
-
-fa0/1-6 AP-та (200, 202 tagged)
-
-fa0/23 external
-fa0/24 eric-eth0-external
-gi0/2 eric-eth1-internal (trunk)
