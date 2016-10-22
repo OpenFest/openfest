@@ -1,0 +1,46 @@
+VLANs
+
+
+id	range			name
+50	46.233.38.137/28	external
+100	10.100.0.0/24		mgmt
+101 	10.101.0.0/22		wired
+102 	10.102.0.0/22		wireless
+103 	10.103.0.0/24		video
+104	10.104.0.0/24		overflow
+
+id	range			name
+10	46.233.38.137/28	external
+20	10.20.0.0/24		mgmt
+21 	10.21.0.0/22		wired
+22 	10.22.0.0/22		wireless
+23 	10.23.0.0/24		video
+24	10.24.0.0/24		overflow
+
+ipv6
+
+50 2a01:b760:1::/127
+101 2a01:b760:abc:2::/64
+102 2a01:b760:abc:3::/64
+
+10 2a01:b760:1::/127
+21 2a01:b760:abc:2::/64
+22 2a01:b760:abc:3::/64
+
+mgmt vlan
+
+ip	name
+.1	eric
+.3	eagle
+
+
+.11 coresw
+.12 vocsw
+.13 teamsw
+.14 wssw
+.15 receptionsw
+.16 camsw
+.17 f2sw
+.18 mussw
+.19 nocsw
+
