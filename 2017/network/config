@@ -1,0 +1,28 @@
+# VLANs
+
+id	range			name
+10	??????????????? 	external
+20	10.20.0.0/24		mgmt
+21 	10.21.0.0/22		wired
+22 	10.22.0.0/22		wireless
+23 	10.23.0.0/24		video
+24	10.24.0.0/24		overflow
+
+ipv6
+
+10	2a01:b760:1:2::/120
+21	2a01:b760:2:4::/62
+22	2a01:b760:2:5::/62
+
+mgmt vlan
+
+ip	name
+.1	eric
+.3	eagle
+
+
+.11 coresw
+.19 nocsw
+
+video
+.101 encoder
