@@ -9,6 +9,12 @@ id	range			name
 103 	10.103.0.0/24		video
 104	10.104.0.0/24		overflow
 
+ipv6
+
+50 2a01:b760:1::/127
+101 2a01:b760:abc:2::/64
+102 2a01:b760:abc:3::/64
+
 
 mgmt vlan
 
