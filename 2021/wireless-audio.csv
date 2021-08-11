@@ -1,7 +1,7 @@
-"function","band","bank/freq","receiver","audio mixer in"
-"headset 1",500,1/1,"incase",1
-"headset 2",700,1/1,"incase",2
-"stick herald",800,1/1,"incase",4
-"stick audience",700,1/2,"incase",3
-"stick backup",500,1/2,"portable","12?"
-"fosdem box",700,1/3,"portable","9?"
+"function","band","bank/freq","receiver","audio mixer in","label"
+"headset 1",500,1/1,"incase:4",1,"lect1"
+"headset 2",700,1/1,"incase:2",2,"lect2"
+"stick herald",800,1/1,"incase:3",3,"herald"
+"stick audience",700,1/2,"incase:1",4,"audience"
+"stick backup",500,1/2,"portable:1","6","VOC"
+"fosdem box",700,1/3,"portable:2","5","fosbox"
